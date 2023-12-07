@@ -1,0 +1,33 @@
+body{
+    margin: 40px;
+}
+
+#submit1{
+    margin-top: 15px;
+}
+
+#form1{
+    margin-bottom: 20px;
+}
+form{
+    font-size: x-large;
+  }
+
+  input {
+    
+    font-size: x-large;
+  }
+
+  table{
+    font-size:larger ;
+    margin-top: 30px;
+  }
+
+  .my{
+    margin-top: 40px;
+
+  }
+  
+  h2{
+    font-size: 50px;
+  }
